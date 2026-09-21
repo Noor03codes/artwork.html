@@ -1,0 +1,39 @@
+.image-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+label {
+  color: #100101;
+  font-size: 66px;      
+  position: absolute;
+  font-weight: 520;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+.option1 {
+  top: 28%;
+  left: 40%;
+}
+
+.option2 {
+  top: 30%;
+  left: 40%;
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  width: 32px;      
+  height: 32px;
+  border-radius: 16px;
+  accent-color: #0a0505;
+  cursor: pointer;
+  border: 6px solid #170e0e;
+}
+input[type="checkbox"]:checked {
+  background-color: #2e2f00; 
+}
