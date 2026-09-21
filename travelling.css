@@ -9,13 +9,13 @@
   top: 23%;         
   left: 40%;
   color: #100101;
-  font-size: 32px;  
+  font-size: 30px;  
   font-weight: bold;
   z-index: 12;
 }
 label {
   color: #100101;
-  font-size: 32px;      
+  font-size: 28px;      
   position: absolute;
   font-weight: 400;
   z-index: 10;
