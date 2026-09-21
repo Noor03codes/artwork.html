@@ -27,8 +27,8 @@ label {
 
 input[type="checkbox"] {
   appearance: none;
-  width: 28px;      
-  height: 28px;
+  width: 18px;      
+  height: 18px;
   border-radius: 12px;
   accent-color: #0a0505;
   cursor: pointer;
