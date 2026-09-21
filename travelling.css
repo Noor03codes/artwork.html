@@ -7,9 +7,9 @@
 
 label {
   color: #100101;
-  font-size: 58px;      
+  font-size: 52px;      
   position: absolute;
-  font-weight: 520;
+  font-weight: 500;
   z-index: 10;
   display: flex;
   align-items: center;
