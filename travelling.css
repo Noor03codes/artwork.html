@@ -6,16 +6,16 @@
 }
 .heading {
   position: absolute;
-  top: 24%;         
+  top: 23%;         
   left: 41%;
   color: #100101;
-  font-size: 24px;  
+  font-size: 23px;  
   font-weight: normal;
   z-index: 12;
 }
 label {
   color: #100101;
-  font-size: 24px;      
+  font-size: 20px;      
   position: absolute;
   font-weight: 400;
   z-index: 10;
@@ -35,8 +35,8 @@ label {
 
 input[type="checkbox"] {
   appearance: none;
-  width: 16px;      
-  height: 16px;
+  width: 10px;      
+  height: 10px;
   border-radius: 12px;
   accent-color: #0a0505;
   cursor: pointer;
