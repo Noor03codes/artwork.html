@@ -4,7 +4,7 @@ h1, h3, h5, ul, p {
 }
 
 body {
-font-family: "consolas", sans-serif;
+font-family: "Consolas", sans-serif;
 background : rgb(255, 255, 248);
 color : rgb(18, 18, 137);
 font-size : 20px;
@@ -28,11 +28,11 @@ margin-bottom: 25px;
 margin-top: 136px;   
 margin-bottom: 4px;
 margin-left: 25px; 
-font-family: "consolas", sans-serif;
+font-family: "Consolas", sans-serif;
 }
 
 .food-choices ul {
-    font-family: "arial", sans-serif;
+    font-family: "Arial", sans-serif;
     font-size : 15px;
     margin-top: 0px; 
     line-height: 16px; 
