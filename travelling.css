@@ -1,3 +1,6 @@
+body {
+  background : rgb(255, 255, 248);
+}
 .image-container {
   position: relative;
   width: 100%;
